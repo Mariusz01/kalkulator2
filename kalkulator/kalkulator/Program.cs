@@ -53,7 +53,6 @@ namespace kalkulator {
             } else {
                 dalej = false;
             }
-            //           int ile = 1;
             while (dalej) {
                 double liczba1 = Konwert(licz[ktory - 1]);
                 double liczba2 = Konwert(licz[ktory + 1]);
@@ -117,7 +116,6 @@ namespace kalkulator {
                 licz.RemoveAt(ktory);
                 licz.RemoveAt(ktory - 1);
                 licz.Insert(ktory - 1, Convert.ToString(liczba3));
-
                 ktory = licz.IndexOf("*");
                 if (ktory > 0) {
                     dalej = true;
