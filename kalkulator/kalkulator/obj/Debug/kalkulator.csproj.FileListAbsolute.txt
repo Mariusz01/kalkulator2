@@ -1,0 +1,7 @@
+D:\Java\Visual\kalkulator\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+D:\Java\Visual\kalkulator\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+D:\Java\Visual\kalkulator\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+D:\Java\Visual\kalkulator\kalkulator\kalkulator\obj\Debug\kalkulator.csprojAssemblyReference.cache
+D:\Java\Visual\kalkulator\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+D:\Java\Visual\kalkulator\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+D:\Java\Visual\kalkulator\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
