@@ -34,7 +34,7 @@ namespace kalkulator {
             } catch (Exception e) {
                 a = 0;
                 stop = false;
-                Console.WriteLine("Nie wpisano liczby");
+                Console.WriteLine("Nie wpisano liczby: " + e);
             }
             return a;
         }
